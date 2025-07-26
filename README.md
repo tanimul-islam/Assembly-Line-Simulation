@@ -81,7 +81,7 @@ Hong H. - 1-Room Office
 -    **Simulation Loop Design**
     -   Iterative control via `LineManager::run()`
     
-   ![diagaram](https://photos.app.goo.gl/hAB5UJevUWp11YLU7)
+
 ## 📁 Sample Input Files
 You can use the provided:
 
