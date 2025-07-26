@@ -6,7 +6,6 @@
 A C++ simulation project that models a real-world **assembly line production system**, where customer orders move through a series of workstations, each responsible for filling specific items based on availability and sequence.
 > 💼 **Built as part of an advanced C++ programming course, this project demonstrates mastery in object-oriented design, file-driven logic, memory management, and STL-based simulation control.**
 > 
----
 ## 📂 Project Structure
 main.cpp → Entry point, sets up and runs the simulation
 Utilities.[h|cpp] → Token extraction and field formatting for file parsing
@@ -82,7 +81,7 @@ Hong H. - 1-Room Office
 -    **Simulation Loop Design**
     -   Iterative control via `LineManager::run()`
     
-   ![diagaram](https://photos.app.goo.gl/hAB5UJevUWp11YLU7)
+   ![diagaram] (https://photos.app.goo.gl/hAB5UJevUWp11YLU7)
 ## 📁 Sample Input Files
 You can use the provided:
 
@@ -90,6 +89,7 @@ You can use the provided:
 -   `Stations2.txt`    
 -   `CustomerOrders.txt`
 -   `AssemblyLine.txt`
+
 Ensure these are placed in the root directory and formatted properly (comma/pipe delimited).
 
 ## 💡 Highlights
